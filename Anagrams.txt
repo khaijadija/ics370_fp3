@@ -1,0 +1,6 @@
+All the movies do not have anagrams.
+Find me movies that anagram starts with "a".
+All the movies do have an anagram.
+Find me duplicate anagrams with different movies.
+Find me movies that have a hyphen but the anagram does not.
+find movie with anagrams name farog
