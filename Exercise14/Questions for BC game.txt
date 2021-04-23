@@ -1,0 +1,5 @@
+What is the max length of the word you would like?
+How many words do you want in the database?
+Can you repeat words?
+Could you use apostrophes?
+Does program end after playing 1 time?
